@@ -1,2 +1,1 @@
-
-// something here
+// this is our main home page
