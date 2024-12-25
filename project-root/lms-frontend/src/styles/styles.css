@@ -1,0 +1,39 @@
+.navbar {
+    margin: 0%;
+    color: black;
+    padding: 10px;
+    background-color: darkkhaki;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.sidebar {
+    width: 200px;
+    background-color: #f4f4f4;
+    padding: 10px;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+.dashboard-container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.main-layout{
+    display: flex;
+    flex: 1;
+}
+.content{
+    flex: 1;
+    padding: 20px;
+}
