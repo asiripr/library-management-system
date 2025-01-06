@@ -3,7 +3,9 @@ const Navbar = () => {
         <nav className="navbar">
             <div className="nav-links">
                 <a href="/profile">Profile</a>
-                <button>Logout</button>
+                <div className="nav-button">
+                    <button>Logout</button>
+                </div>
             </div>
         </nav>
     );
